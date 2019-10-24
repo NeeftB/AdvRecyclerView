@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adv RecyclerView</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageDescription">Color of image</string>
+</resources>
